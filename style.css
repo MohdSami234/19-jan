@@ -1,0 +1,13 @@
+body{
+    margin-left: 600px;
+    margin-right: 700px;
+}
+img{
+    border-radius: 50%;
+    border: black solid 3px;
+    margin-left: 10px;
+}
+
+form{
+    border: solid black 3px;
+}
